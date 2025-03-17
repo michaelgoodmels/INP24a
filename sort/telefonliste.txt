@@ -5,3 +5,4 @@ bill gates microsoftstrasse 3 2017 RAM Windows 012 345 67 89
 elias knoll büelstrasse 20 8890 Flums Schweiz 079 881 07 22steve jobs macstrasse 99 9999 palo alto usa 999 99 99
 steve jobs macstrasse 99 9999 palo alto usa 999 99 99
 mattia kammerer musterstrasse 22 7777 buchs schweiz 055 55 55
+mattia kammerer bahnhofstrasse 69 9493 bux schweiz 023 943 23 54
