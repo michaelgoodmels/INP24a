@@ -1,3 +1,4 @@
+vorname:  name: strasse: nr: plz: ort: land: phone:
 michael good mühlesteinweg 2 8887 Mels Schweiz 077 777 77 77
 timur schandalinov One Apple Park Way, Cupertino, CA 95014, Vereinigte Staaten 069 123 45 67
 silvan horn seezstrasse 4 8887 Mels Schweiz 077 496 79 45
