@@ -20,7 +20,7 @@ subtraktion() {
 
 # Funktion für die Multiplikation
 multiplikation() {
-    result=$(expr $1 * $2)
+    result=$(expr $1 \* $2)
     echo "Ergebnis der Multiplikation: $result"
 }
 
