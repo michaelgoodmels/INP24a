@@ -48,15 +48,13 @@ main() {
     read -p "Geben Sie die zweite Zahl ein: " num2
 
     case $choice in
-        1) addition $num1 $num2 ;;
-        2) subtraktion $num1 $num2 ;;
-        3) multiplikation $num1 $num2 ;;
-        4) division $num1 $num2 ;;
+        1) addition "$num1" "$num2" ;;
+        2) subtraktion "$num1" "$num2" ;;
+        3) multiplikation "$num1" "$num2" ;;
+        4) division "$num1" "$num2" ;;
         *) echo "Ungültige Auswahl." ;;
     esac
 }
 
 # Aufrufen der Hauptfunktion
 main
-
-
